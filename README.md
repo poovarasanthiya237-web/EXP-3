@@ -91,7 +91,8 @@ switch2.
 
 # Tabulation:2
 
-<img width="713" height="450" alt="Screenshot 2026-10-25 141445" src="https://github.com/user-attachments/assets/abfe31af-7b86-4e43-b131-ee3749f50b3f" />
+
+<img width="963" height="601" alt="Screenshot 2026-10-25 221909" src="https://github.com/user-attachments/assets/5b6572a9-a3d6-4f29-b8c8-e07effba1993" />
 
 
 <img width="1060" height="497" alt="Screenshot 2026-10-25 141529" src="https://github.com/user-attachments/assets/ece4718a-f3f1-4487-96fa-1150761040ed" />
